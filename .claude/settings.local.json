@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__google_drive__google_drive-create_drive_folder",
+      "mcp__google_calendar__google_calendar-get_events",
+      "mcp__google_drive__google_drive-create_drive_file"
+    ]
+  }
+}
